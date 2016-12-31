@@ -50,4 +50,4 @@ If you would like to contribute to this repository by adding an exercise, making
 The following links are for students **currently enrolled in the course**:
 
 - [Slack Team](https://info-370.slack.com)
-- [Canvas Site](https://canvas.uw.edu/courses/1100131/assignments/3535256)
+- [Canvas Site](https://canvas.uw.edu/courses/1100131)
